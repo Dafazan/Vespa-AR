@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.15.3">
+<ModelTarget name="vespabiru" targetId="0e1df8cf468143309179ea4511fd45f8" version="14.0" toolVersion="10.15.3" bbox="-1.009523 0.002975 -0.423150 0.916122 1.200653 0.422179" previewImage="0e1df8cf468143309179ea4511fd45f8_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="vespabirus_assembly" assemblyId="baecd75811014e7a825efee28c43d0a7">
+<Part name="vespabiru" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0466977 0.624443 3.25078" rotation="AD: 1 0.000713714 -0.0127834 186.391" image="vespabiru_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.000151587 0.615446 3.31551" rotation="AD: -0.998711 -0.0717119 1.00586 174.256" image="vespabiru_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.00101936 0.625818 3.25397" rotation="AD: 0.997641 -0.0969854 1.00912 187.713" image="vespabiru_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.0466926 0.627495 3.21437" rotation="AD: 0.491274 -0.871457 31.0568 180.051" image="vespabiru_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-0.000160758 0.0652648 3.8069" rotation="AD: -0.909061 -0.765462 0.915399 126.253" image="vespabiru_GuideView_0004.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="-0.0298207 0.609646 3.33679" rotation="AD: 0.999552 -0.0720564 0.463167 196.035" image="vespabiru_GuideView_0005.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="0.0252131 0.61067 3.33358" rotation="AD: 0.971713 -0.273165 1.75586 188.537" image="vespabiru_GuideView_0006.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="-0.0234914 0.583594 3.4167" rotation="AD: 0.998908 0.0941133 -0.581346 195.878" image="vespabiru_GuideView_0007.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0008" translation="0.019896 0.582998 3.41849" rotation="AD: -0.977485 -0.252314 1.55856 170.258" image="vespabiru_GuideView_0008.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0009" translation="-0.0466042 0.460944 3.60728" rotation="AD: 1 -0.010803 0.0273563 223.081" image="vespabiru_GuideView_0009.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0010" translation="0.000452768 0.394849 3.67124" rotation="AD: 0.950015 -0.498965 0.949353 218.427" image="vespabiru_GuideView_0010.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

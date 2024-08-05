@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080271990210",
+    "project_id": "vespaar-c0e4a",
+    "storage_bucket": "vespaar-c0e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080271990210:android:f9c5f6d7a18bef0b1e7a5b",
+        "android_client_info": {
+          "package_name": "com.RidhoBagas.Vespa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080271990210-4foef67g8jgs12j4i5nhkt7fr39k5k3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4B64SWMKlB7Bg9CFB-sAxes5jaJQTpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080271990210-4foef67g8jgs12j4i5nhkt7fr39k5k3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

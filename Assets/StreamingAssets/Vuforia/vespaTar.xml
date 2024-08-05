@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="vespaTar" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="vespaTars_assembly" assemblyId="7b15eaf70de046eab6a7c7dc28e2b601">
+<Part name="vespaTar" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0750301 0.302657 3.71232" rotation="AD: 1 -1.16717e-05 0.00910035 180.147" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.563323 0.269716 2.60083" rotation="AD: 0.9944 0.151647 -0.988615 192.345" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.563726 0.299334 2.52875" rotation="AD: 0.986007 -0.242834 0.985775 199.477" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.563732 -0.0275457 2.75441" rotation="AD: -0.905306 -0.802484 0.9056 124.076" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.642054 0.331886 2.23554" rotation="AD: -0.958689 -0.317205 2.06792 172.687" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="-0.386765 -0.0502567 2.79673" rotation="AD: 0.998186 -0.140414 0.496879 208.18" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="0.0842303 0.305407 2.53094" rotation="AD: -0.120842 -0.995527 13.2126 179.921" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
